@@ -1,5 +1,5 @@
 # drasilboard
-open source 4x4 macropad dedicated to drasil #0621 in GDColon's Discord server
+open source 4x4 macropad dedicated to user drasil#0621 in GDColon's Discord server
 
 layout .json generated with http://www.keyboard-layout-editor.com/
 
