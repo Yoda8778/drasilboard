@@ -6,3 +6,5 @@ layout .json generated with http://www.keyboard-layout-editor.com/
 plate file geenrated with http://builder.swillkb.com/
 
 pcb designed on EasyEDA
+
+currently WIP!
